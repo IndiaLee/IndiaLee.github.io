@@ -1,0 +1,104 @@
+body {
+    background-size: 80px 80px;
+    background-image:
+      linear-gradient(to right, grey 1px, transparent 1px),
+      linear-gradient(to bottom, grey 1px, transparent 1px);
+    
+   
+  }
+
+#title {
+    margin-left: 60px;
+    background-color: #d957d999;
+    width: 350px;
+    padding: 40px;
+}
+
+  table, td {
+    border: grey solid;
+    border-radius: 20px;
+    width: 1000px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: white;
+    
+    
+}
+h1, h2, h3, p {
+    margin: 20px;
+}
+
+
+
+/* Styling Colours */ 
+
+.colours {
+    display: inline-block;
+}
+
+
+#blue {
+    background-color: #2d5dcc;
+    width: 80px;
+    padding: 30px 10px; 
+    margin: 10px;
+    
+}
+
+#pink {
+    background-color: #d957d9;
+    width: 80px;
+    padding: 30px 10px; 
+    margin: 10px;
+    
+}
+
+#green {
+    background-color: #4fe0b0;
+    width: 80px;
+    padding: 30px 10px; 
+    margin: 10px;
+    
+}
+
+#beige {
+    background-color: #efd9ca;
+    width: 80px;
+    padding: 30px 10px; 
+    margin: 10px;
+    
+}
+
+/* Styling Fonts */ 
+
+.source {
+    font-family: Source Code Pro, Arial, Helvetica, sans-serif;
+}
+
+.nunito {
+    font-family: Nunito Sans, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.poppins-font {
+    font-family: Poppins, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Styling Text*/ 
+
+#mainpage {
+    Font-weight: 700 bold;
+    Font-size: 26px;
+    Font-family: Nutino Sans; 
+}
+
+#subhead {
+    Font-weight: 500;
+    Font-size: 18px;
+    Font-family: Poppins;
+}
+
+#ptext {
+    Font-weight: 400;
+    Font-size: 14px;
+    Font-family: Poppins;
+}
